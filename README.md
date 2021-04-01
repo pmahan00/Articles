@@ -7,8 +7,8 @@ Curated list of articles  for computervision and general learning
 3. Run the pose -pose game (here) [https://github.com/ortegatron/twisterpose]
 
 ### 3D pose estimation 
-1.https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation
-2.https://github.com/rayat137/Pose_3D
+1.simple (here) [https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
+2.old (here) [https://github.com/rayat137/Pose_3D]
 3.https://github.com/xingyizhou/CenterNet
 4.https://github.com/chanyn/3Dpose_ssl
 5.https://github.com/Lu-Zou/3d-human-pose-estimation
