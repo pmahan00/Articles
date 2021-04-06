@@ -6,6 +6,9 @@ Curated list of articles  for computervision and general learning
 2. Gym application (here) [https://github.com/Shaun-Fernandes/AI-Gym-Trainer]
 3. Run the pose -pose game (here) [https://github.com/ortegatron/twisterpose]
 
+### Googles ML toolkit 
+1. MediaFile (mediafile)[https://google.github.io/mediapipe/solutions/pose_classification.html]
+
 ### 3D pose estimation 
 1.simple (here) [https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
 2.old (here) [https://github.com/rayat137/Pose_3D]
