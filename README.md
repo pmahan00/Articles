@@ -7,7 +7,7 @@ Curated list of articles  for computervision and general learning
 3. Run the pose -pose game (here) [https://github.com/ortegatron/twisterpose]
 
 ### Googles ML toolkit 
-1. MediaFile (mediafile)[https://google.github.io/mediapipe/solutions/pose_classification.html]
+1. MediaFile (mediafile) [https://google.github.io/mediapipe/solutions/pose_classification.html]
 
 ### 3D pose estimation 
 1.simple (here) [https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
