@@ -2,17 +2,17 @@
 Curated list of articles  for computervision and general learning 
 
 ### OpenPose Deeplearning (2D pose estimation)
-1. Make applications [applications] (https://medium.com/@sduxbury/how-you-can-build-practical-applications-by-quantifying-observations-from-video-e266b945eea0)
-2. Gym application [here] (https://github.com/Shaun-Fernandes/AI-Gym-Trainer)
-3. Run the pose -pose game [here] (https://github.com/ortegatron/twisterpose)
+1. Make applications [applications](https://medium.com/@sduxbury/how-you-can-build-practical-applications-by-quantifying-observations-from-video-e266b945eea0)
+2. Gym application [here](https://github.com/Shaun-Fernandes/AI-Gym-Trainer)
+3. Run the pose -pose game [here](https://github.com/ortegatron/twisterpose)
 
 ### Googles ML toolkit 
-1. [mediafile] (https://google.github.io/mediapipe/solutions/pose_classification.html)
+1. [mediafile](https://google.github.io/mediapipe/solutions/pose_classification.html)
 2. [I'm an inline-style link](https://www.google.com)
 
 ### 3D pose estimation 
-1.simple (here) [https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
-2.old (here) [https://github.com/rayat137/Pose_3D]
+1.simple (here)[https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
+2.old (here)[https://github.com/rayat137/Pose_3D]
 3.https://github.com/xingyizhou/CenterNet
 4.https://github.com/chanyn/3Dpose_ssl
 5.https://github.com/Lu-Zou/3d-human-pose-estimation
