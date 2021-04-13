@@ -9,6 +9,8 @@ Curated list of articles  for computervision and general learning
 ### Googles ML toolkit 
 1. [mediafile](https://google.github.io/mediapipe/solutions/pose_classification.html)
 2. [Media Pipe github](https://github.com/google/mediapipe)
+3. [depthai](https://github.com/geaxgx/depthai_blazepose)
+
 
 ### 3D pose estimation 
 1.simple (here)[https://github.com/mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation]
