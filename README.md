@@ -24,6 +24,9 @@ Curated list of articles  for computervision and general learning
 9.https://github.com/yourslab/pose-matching
 10.http://www.jaist.ac.jp/~xie/publication/2019-NICO-training.pdf
 
+### Model Optimization 
+1. List of resources for model optimizartion [Mlops](https://github.com/rishabhk108/AdvancedOptML)
+
 ### Animation 
 1. Japanese animation on Unity + OpenPose (here) [https://github.com/keel-210/OpenPose-Rig]
 2. Robot +Openpose (here)[https://sites.google.com/site/serislab/research]
