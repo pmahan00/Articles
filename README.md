@@ -33,6 +33,10 @@ Curated list of articles  for computervision and general learning
 3. Control 3d joint (here) https://github.com/zhenyuczy/openpose_3d-pose-baseline_unity3d]
 4. Upload to MoCap (here) [https://github.com/robertjoosten/video2mocap]
 
+### Fintech 
+1. Hedera explanation(here)[hedera.com]
+2. Crypto Zombies (CryptoZombies)[https://cryptozombies.io/]
+
 ### React Native /JS 
 
 ### full stack course 
