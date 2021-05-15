@@ -46,3 +46,4 @@ Curated list of articles  for computervision and general learning
 ### Music Tech 
 1.[Magenta](https://sites.research.google/tonetransfer)
 2.[Auto Dj](https://github.com/teticio/Deej-A.I.)
+3.[Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
