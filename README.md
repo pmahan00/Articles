@@ -43,4 +43,5 @@ Curated list of articles  for computervision and general learning
 1. Basic introduction : University of Helsinki course here [https://fullstackopen.com/en/]
 
 
-
+### Music Tech 
+1.[Magenta]{https://sites.research.google/tonetransfer)
