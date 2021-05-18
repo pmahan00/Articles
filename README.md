@@ -2,7 +2,7 @@
 Curated list of articles  for computervision and general learning 
 
 # Python CV 
-[List of repos] (https://pythonrepo.com/tag/animal-pose-estimation_3)
+[List of repos](https://pythonrepo.com/tag/animal-pose-estimation_3)
 
 ### OpenPose Deeplearning (2D pose estimation)
 1. Make applications [applications](https://medium.com/@sduxbury/how-you-can-build-practical-applications-by-quantifying-observations-from-video-e266b945eea0)
