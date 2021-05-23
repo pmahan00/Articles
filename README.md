@@ -8,6 +8,7 @@ Curated list of articles  for computervision and general learning
 1. Make applications [applications](https://medium.com/@sduxbury/how-you-can-build-practical-applications-by-quantifying-observations-from-video-e266b945eea0)
 2. Gym application [here](https://github.com/Shaun-Fernandes/AI-Gym-Trainer)
 3. Run the pose -pose game [here](https://github.com/ortegatron/twisterpose)
+4. WebGl apps[here] 8https://github.com/terryky/tfjs_webgl_app)
 
 ### Googles ML toolkit 
 1. [mediafile](https://google.github.io/mediapipe/solutions/pose_classification.html)
