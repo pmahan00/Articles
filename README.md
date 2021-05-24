@@ -1,6 +1,9 @@
 # Articles
 Curated list of articles  for computervision and general learning 
 
+# DTW 
+[pysio therapy] (https://medium.com/@_samkitjain/physio-pose-a-virtual-physiotherapy-assistant-7d1c17db3159)
+
 # Python CV 
 [List of repos](https://pythonrepo.com/tag/animal-pose-estimation_3)
 
