@@ -56,4 +56,4 @@ Curated list of articles  for computervision and general learning
 3.[Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
 
 ### Forums 
-1. [Tensor flow hub ] (https://discuss.tensorflow.org/)
+1. [Tensor flow hub ](https://discuss.tensorflow.org/)
