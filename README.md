@@ -48,6 +48,7 @@ Curated list of articles  for computervision and general learning
 
 ### full stack course 
 1. Basic introduction : University of Helsinki course here [https://fullstackopen.com/en/]
+2. React Native Expo with pose here [https://github.com/tensorflow/tfjs-examples/blob/master/react-native/pose-detection/App.tsx]
 
 
 ### Music Tech 
