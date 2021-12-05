@@ -43,6 +43,8 @@ Curated list of articles  for computervision and general learning
 ### Fintech 
 1. Hedera explanation[here](hedera.com)
 2. Crypto Zombies [here](https://cryptozombies.io/)
+3. Nader Dabit Fullstack development for web3 [here] (https://www.youtube.com/watch?v=a0osIaAOFSE&ab_channel=NaderDabit)
+4. Create a full stack NFT project [here] (https://www.youtube.com/watch?v=a0osIaAOFSE&ab_channel=NaderDabit) 
 
 ### React Native /JS 
 
