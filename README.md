@@ -54,9 +54,10 @@ Curated list of articles  for computervision and general learning
 
 
 ### Music Tech 
-1.[Magenta](https://sites.research.google/tonetransfer)
-2.[Auto Dj](https://github.com/teticio/Deej-A.I.)
-3.[Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
+1. [Magenta](https://sites.research.google/tonetransfer)
+2. [Auto Dj](https://github.com/teticio/Deej-A.I.)
+3. [Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
+4. [Article about XR Audio](https://www.linkedin.com/posts/ievgen-gorovyi-1b374375_visual-acoustic-matching-activity-6899291358088286209-HMjO)
 
 ### Forums 
 1. [Tensor flow hub ](https://discuss.tensorflow.org/)
