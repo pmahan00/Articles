@@ -59,6 +59,10 @@ Curated list of articles  for computervision and general learning
 3. [Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
 4. [Article about XR Audio](https://www.linkedin.com/posts/ievgen-gorovyi-1b374375_visual-acoustic-matching-activity-6899291358088286209-HMjO)
 
+### AI Music / Diffusion / Mid Journey
+1. [ChatGPTtoMidi](https://huggingface.co/spaces/cbg342/GPT-4-To-Midi)
+2. [Musika-Generation music](https://github.com/marcoppasini/musika)
+
 ### Stable diffusion
 1. [Motion Diffusion](http)s://colab.research.google.com/drive/1daZF5ydfHbn1_faDMoGSjBeiQSs_NqAQ#scrollTo=iYT-2PvxGddj)
 
