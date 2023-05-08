@@ -58,6 +58,7 @@ Curated list of articles  for computervision and general learning
 2. [Auto Dj](https://github.com/teticio/Deej-A.I.)
 3. [Python Audio Analysus](https://github.com/tyiannak/pyAudioAnalysis)
 4. [Article about XR Audio](https://www.linkedin.com/posts/ievgen-gorovyi-1b374375_visual-acoustic-matching-activity-6899291358088286209-HMjO)
+5. [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
 ### AI Music / Diffusion / Mid Journey
 1. [ChatGPTtoMidi](https://huggingface.co/spaces/cbg342/GPT-4-To-Midi)
