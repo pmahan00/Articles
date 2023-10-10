@@ -60,7 +60,8 @@ Curated list of articles  for computervision and general learning
 4. [Article about XR Audio](https://www.linkedin.com/posts/ievgen-gorovyi-1b374375_visual-acoustic-matching-activity-6899291358088286209-HMjO)
 5. [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 6. [Text to Music generator FB Meta](https://ai.honu.io/papers/musicgen/)
-7. [https://github.com/Metallicode/python_dsp](python audio processing)
+7. [python audio processing](https://github.com/Metallicode/python_dsp)
+8. [AI Guru](https://github.com/AI-Guru/music-generation-research)
 
 ### AI Music / Diffusion / Mid Journey
 1. [ChatGPTtoMidi](https://huggingface.co/spaces/cbg342/GPT-4-To-Midi)
