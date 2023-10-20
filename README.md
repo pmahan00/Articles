@@ -52,6 +52,10 @@ Curated list of articles  for computervision and general learning
 1. Basic introduction : University of Helsinki course here [https://fullstackopen.com/en/]
 2. React Native Expo with pose [here](https://github.com/tensorflow/tfjs-examples/blob/master/react-native/pose-detection/App.tsx) and [question](https://github.com/tensorflow/tfjs/issues/5705)
 
+### LLM tutorial 
+1. Multiple pdf analysis using openAPI[Colab](https://colab.research.google.com/drive/1OZpmLgd5D_qmjTnL5AsD1_ZJDdb7LQZI?usp=sharing)
+2. Multiple pdf llama2 [collab](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/tree/master)
+3. Free Chat embeddings [Free Embeddings](https://www.youtube.com/watch?v=QdDoFfkVkcw)
 
 ### Music Tech 
 1. [Magenta](https://sites.research.google/tonetransfer)
