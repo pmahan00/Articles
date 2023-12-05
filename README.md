@@ -56,7 +56,9 @@ Curated list of articles  for computervision and general learning
 1. Multiple pdf analysis using openAPI[Colab](https://colab.research.google.com/drive/1OZpmLgd5D_qmjTnL5AsD1_ZJDdb7LQZI?usp=sharing)
 2. Multiple pdf llama2 [collab](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/tree/master)
 3. Free Chat embeddings [Free Embeddings](https://www.youtube.com/watch?v=QdDoFfkVkcw)
-
+4. German language LLM base models[LAION](https://huggingface.co/jphme/Llama-2-13b-chat-german)
+#### Notebooks    
+)
 ### Music Tech 
 1. [Magenta](https://sites.research.google/tonetransfer)
 2. [Auto Dj](https://github.com/teticio/Deej-A.I.)
